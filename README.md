@@ -1,4 +1,4 @@
-# Phala PRB VO 集群部署教程
+# Phala PRB VO 集群部署教程 By xiaojie
 ---
 ### ❀ PRB V2 部署教程请[切换到Next分支](https://github.com/suugee/phala-prb/tree/next)
 
